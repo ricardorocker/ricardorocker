@@ -8,17 +8,17 @@
 </p>
 
 <p align="center">
-        <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" />
+        <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
+        <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue" />
         <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap" />
         <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
         <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript">
-        <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular">
+        <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=red">
         <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
         <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
-        <img src="https://img.shields.io/badge/-AzureDevops-black?style=flat-square&logo=azuredevops">
         <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
         <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql">
+        <img src="https://img.shields.io/badge/-AzureDevops-black?style=flat-square&logo=azuredevops&logoColor=blue">
 </p>
 
 <hr>
