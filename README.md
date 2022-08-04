@@ -1,4 +1,4 @@
-## Desde Jan/21, trabalho como desenvolvedor Front-End remotamente na Itix Tecnologia.
+## Desde Jan/21, trabalho como desenvolvedor Front-End remoto na Itix Tecnologia.
 
 <p align="center">
   <img height="180em"
