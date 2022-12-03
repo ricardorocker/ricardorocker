@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+        <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" />
         <img src="https://img.shields.io/badge/-Vue%203-black?style=flat-square&logo=vuedotjs" />
         <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
         <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=red">
