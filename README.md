@@ -1,10 +1,10 @@
 ## Desde Jan/21, trabalho como Angular Dev Front-End remoto na Itix Tecnologia.
 
 <p align="center">
-  <img height="140em"
+  <img height="150em"
   src="https://github-readme-stats.vercel.app/api?username=ricardorocker&hide=issues,contribs&show_icons=true&theme=radical" />
-  <img height="140em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardorocker&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardorocker&show=vue,react&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align="center">
