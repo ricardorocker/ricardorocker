@@ -1,4 +1,4 @@
-## Since Jan/2021, I've been working as a Front End Developer at Itix Tecnologia.
+## <p align="center" font-weight="bold"> Since Jan/2021, I've been working as a Front End Developer at Itix Tecnologia.</p>
 
 <p align="center">
   <img height="150em"
@@ -36,7 +36,7 @@
         </a>
         <a href="https://ricardorocker.com.br">
             <img
-                src="https://img.shields.io/badge/-ricardorocker.com.br-blue?style=flat-square&link=https://ricardorocker.com.br" />
+                src="https://img.shields.io/badge/-ricardorocker.com-blue?style=flat-square&link=https://ricardorocker.com" />
         </a>
 </p>
 
