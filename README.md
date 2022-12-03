@@ -1,4 +1,4 @@
-## Desde Jan/21, trabalho como Angular Dev Front-End remoto na Itix Tecnologia.
+## Since Jan/2021, I've been working as a Front End Developer at Itix Tecnologia.
 
 <p align="center">
   <img height="150em"
