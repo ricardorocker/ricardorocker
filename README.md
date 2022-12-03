@@ -1,9 +1,9 @@
 ## <p align="center" font-weight="bold"> Since Jan/2021, I've been working as a Front End Developer at Itix Tecnologia.</p>
 
 <p align="center">
-  <img height="160em"
+  <img height="170em"
   src="https://github-readme-stats.vercel.app/api?username=ricardorocker&hide=issues,contribs&show_icons=true&theme=radical" />
-  <img height="160em"
+  <img height="170em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardorocker&langs_count=3&show=vue,react&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
