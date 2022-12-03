@@ -4,7 +4,7 @@
   <img height="150em"
   src="https://github-readme-stats.vercel.app/api?username=ricardorocker&hide=issues,contribs&show_icons=true&theme=radical" />
   <img height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardorocker&show=vue,react&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardorocker&langs_count=3&show=vue,react&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align="center">
