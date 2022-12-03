@@ -1,19 +1,23 @@
 ## Desde Jan/21, trabalho como Angular Dev Front-End remoto na Itix Tecnologia.
 
+  
+<!-- "https://github-readme-streak-stats.herokuapp.com/?user=ricardorocker&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" -->
 <p align="center">
   <img height="180em"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ricardorocker&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  src="https://github-readme-stats.vercel.app/api?username=ricardorocker&hide=issues,contribs&show_icons=true&theme=radical" />
   <img height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardorocker&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align="center">
+        <img src="https://img.shields.io/badge/-Vue%203-black?style=flat-square&logo=vuedotjs" />
+        <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=red">
         <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
         <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue" />
         <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap" />
         <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
         <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript">
-        <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=red">
         <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
         <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
         <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
