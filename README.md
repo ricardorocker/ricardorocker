@@ -1,7 +1,5 @@
 ## Desde Jan/21, trabalho como Angular Dev Front-End remoto na Itix Tecnologia.
 
-  
-<!-- "https://github-readme-streak-stats.herokuapp.com/?user=ricardorocker&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" -->
 <p align="center">
   <img height="180em"
   src="https://github-readme-stats.vercel.app/api?username=ricardorocker&hide=issues,contribs&show_icons=true&theme=radical" />
