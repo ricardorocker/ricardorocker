@@ -35,7 +35,7 @@
             <img
                 src="https://img.shields.io/badge/-ricardoRocker-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardo.santos.rocker@gmail.com" />
         </a>
-        <a href="https://ricardorocker.com.br">
+        <a href="https://ricardorocker.com/">
             <img
                 src="https://img.shields.io/badge/-ricardorocker.com-blue?style=flat-square&link=https://ricardorocker.com" />
         </a>
