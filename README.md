@@ -1,4 +1,4 @@
-## <p align="center" font-weight="bold"> Since Jan/2021, I've been working as a Front End Developer at Itix Tecnologia.</p>
+## <p align="center" font-weight="bold"> Angular Frontend Developer, proficient in Angular, RxJS, HTML, CSS, Bootstrap, HTTP Client, Microfrontend, agile methodology, and GIT. </p>
 
 <p align="center">
   <img height="170em"
