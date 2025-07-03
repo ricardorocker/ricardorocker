@@ -1,4 +1,4 @@
-## <p align="center" font-weight="bold"> Angular Frontend Developer, proficient in Angular, RxJS, HTML, CSS, Bootstrap, HTTP Client, Microfrontend, agile methodology, and GIT. </p>
+<p align="center" font-weight="bold"> Angular Senior Frontend Developer | RxJS Expert | Scalable Solutions Architect </p>
 
 <p align="center">
   <img height="170em"
@@ -26,6 +26,56 @@
 
 <hr>
 
+Ricardo Rocker - Senior Angular Developer
+
+Professional Summary
+
+Senior Frontend Developer with over 4 years of experience building scalable and high-performance Angular applications. My expertise spans Angular versions 8-18, including Standalone Components, TypeScript, RxJS, Angular Material, and REST API integrations with .NET and Node.js backends. I am passionate about clean code, reusability, and modular design patterns that scale in enterprise-level applications.
+
+Currently, I lead the frontend development of a large messaging platform for a major Brazilian bank. My responsibilities include prototyping, implementing responsive UIs, managing complex CRUD operations, and handling role-based authentication systems. I am proficient with tools like Figma, GitLab, Docker, Cypress, and Azure DevOps, and I collaborate daily with cross-functional teams using Agile methodologies.
+
+I am seeking challenging opportunities in innovative, remote-first teams where I can leverage my Angular expertise to drive user-centric, scalable solutions.
+
+Core Technical Skills
+
+•
+Frontend: Angular (8-18), RxJS, NgRx, Angular Material, Standalone Components, Signals, HTML5, CSS3, SASS/LESS, Bootstrap, Responsive Design.
+
+•
+Backend (Concepts & Integration): Node.js, RESTful APIs, .NET (integration).
+
+•
+Languages: TypeScript, JavaScript.
+
+•
+Testing: Jest, Cypress, Jasmine, Karma.
+
+•
+Tools & Platforms: Git, GitHub, GitLab, Docker, Azure DevOps, Figma, PostgreSQL, Firebase.
+
+•
+Methodologies: Scrum, Kanban, Agile Development.
+
+Featured Projects
+
+camera-monitor (New Project - Angular 18 & Node.js)
+
+This ongoing project simulates a security camera control system, deeply exploring advanced reactivity with RxJS and Signals in Angular 18. The Node.js backend demonstrates a basic architecture for device control. It serves as an excellent example of applying complex reactive patterns to manage real-time states and interactions.
+
+rxjs-reactive-angular
+
+A project dedicated to exploring and demonstrating reactive development patterns with RxJS in Angular. It covers concepts from basics to advanced operator implementation for performance optimization and asynchronous data flow management.
+
+loan-calculator
+
+A robust web application developed in Angular for loan simulations. This project highlights the construction of intuitive user interfaces and the implementation of complex business logic on the frontend.
+
+rocker-website
+
+My personal website, built with Angular, serving as a portfolio, blog, and platform for sharing technical knowledge. It showcases my skills in frontend development and UI/UX design.
+
+Connect with Me
+
 <p align="center">
         <a href="https://www.linkedin.com/in/ricardo-s-rocker/">
             <img
@@ -41,4 +91,3 @@
         </a>
 </p>
 
-<!-- ![Snake animation](https://github.com/ricardorocker/ricardorocker/blob/output/github-contribution-grid-snake.svg)  -->
