@@ -1,4 +1,5 @@
-<p align="center" font-weight="bold"> Angular Senior Frontend Developer | RxJS Expert | Scalable Solutions Architect </p>
+<p align="center" font-weight="bold"> Senior Frontend Developer | React | Angular | TypeScript | Micro Frontends | Vitest </p>
+
 
 <p align="center">
   <img height="170em"
@@ -7,87 +8,66 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardorocker&langs_count=3&show=vue,react&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
+
 <p align="center">
-        <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" />
-        <img src="https://img.shields.io/badge/-Vue%203-black?style=flat-square&logo=vuedotjs" />
         <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
         <img src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=red">
+        <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript">
+        <img src="https://img.shields.io/badge/-Vue%203-black?style=flat-square&logo=vuedotjs" />
+        <img src="https://img.shields.io/badge/-Vitest-black?style=flat-square&logo=vitest" />
         <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
         <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue" />
-        <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap" />
         <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-        <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript">
         <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
         <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
         <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
-        <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql">
-        <img src="https://img.shields.io/badge/-AzureDevops-black?style=flat-square&logo=azuredevops&logoColor=blue">
+        <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js">
 </p>
+
 
 <hr>
 
-Ricardo Rocker - Senior Angular Developer
 
-Professional Summary
+## Ricardo Rocker - Senior Frontend Developer
 
-Senior Frontend Developer with over 4 years of experience building scalable and high-performance Angular applications. My expertise spans Angular versions 8-18, including Standalone Components, TypeScript, RxJS, Angular Material, and REST API integrations with .NET and Node.js backends. I am passionate about clean code, reusability, and modular design patterns that scale in enterprise-level applications.
 
-Currently, I lead the frontend development of a large messaging platform for a major Brazilian bank. My responsibilities include prototyping, implementing responsive UIs, managing complex CRUD operations, and handling role-based authentication systems. I am proficient with tools like Figma, GitLab, Docker, Cypress, and Azure DevOps, and I collaborate daily with cross-functional teams using Agile methodologies.
+### Professional Summary
 
-I am seeking challenging opportunities in innovative, remote-first teams where I can leverage my Angular expertise to drive user-centric, scalable solutions.
 
-Core Technical Skills
+Senior Frontend Developer with extensive experience building scalable and high-performance applications. Currently working at **GFT Technologies** (since August 2025), with a solid background in **React**, **Angular**, **TypeScript**, and modern frontend architectures including **Micro Frontends**.
 
-•
-Frontend: Angular (8-18), RxJS, NgRx, Angular Material, Standalone Components, Signals, HTML5, CSS3, SASS/LESS, Bootstrap, Responsive Design.
 
-•
-Backend (Concepts & Integration): Node.js, RESTful APIs, .NET (integration).
+Previous roles at **Stefanini** (Dec 2024 - Aug 2025), **NAVA** (Mar 2024 - Dec 2024), and **Reply** (Apr 2023 - Nov 2023) provided deep expertise in Angular ecosystem, reactive programming with RxJS/NgRx, and enterprise-level applications.
 
-•
-Languages: TypeScript, JavaScript.
 
-•
-Testing: Jest, Cypress, Jasmine, Karma.
+Passionate about clean code, reusability, test-driven development with Vitest/Jest, and modular design patterns that scale in complex systems. Proficient with tools like Figma, GitLab, Docker, Azure DevOps, and Jira, collaborating daily with cross-functional teams using Agile/Scrum methodologies.
 
-•
-Tools & Platforms: Git, GitHub, GitLab, Docker, Azure DevOps, Figma, PostgreSQL, Firebase.
 
-•
-Methodologies: Scrum, Kanban, Agile Development.
+### Core Technical Skills
 
-Featured Projects
 
-camera-monitor (New Project - Angular 18 & Node.js)
+- **Frontend**: React, Angular (8-18), TypeScript, RxJS, NgRx, Vue 3, Angular Material, Signals, HTML5, CSS3, SASS, Tailwind, Bootstrap
+- **Testing**: Vitest, Jest, Cypress, Jasmine, Karma
+- **Backend (Concepts & Integration)**: Node.js, RESTful APIs, .NET integration
+- **Tools & Platforms**: Git, GitHub, GitLab, Docker, Azure DevOps, Figma, Jira, Vercel
+- **Methodologies**: Scrum, Kanban, Agile Development, TDD
 
-This ongoing project simulates a security camera control system, deeply exploring advanced reactivity with RxJS and Signals in Angular 18. The Node.js backend demonstrates a basic architecture for device control. It serves as an excellent example of applying complex reactive patterns to manage real-time states and interactions.
 
-rxjs-reactive-angular
+### Featured Projects
 
-A project dedicated to exploring and demonstrating reactive development patterns with RxJS in Angular. It covers concepts from basics to advanced operator implementation for performance optimization and asynchronous data flow management.
 
-loan-calculator
+**swingdesk-b3-omega** - Algorithmic trading research platform with TypeScript, focusing on automated strategies for the Brazilian stock market.
 
-A robust web application developed in Angular for loan simulations. This project highlights the construction of intuitive user interfaces and the implementation of complex business logic on the frontend.
 
-rocker-website
+**camera-monitor (Angular 18 & Node.js)** - Security camera control system exploring advanced reactivity with RxJS and Signals in Angular 18. Demonstrates complex reactive patterns for real-time state management.
 
-My personal website, built with Angular, serving as a portfolio, blog, and platform for sharing technical knowledge. It showcases my skills in frontend development and UI/UX design.
 
-Connect with Me
+**rxjs-reactive-angular** - Project dedicated to exploring reactive development patterns with RxJS in Angular, from basics to advanced operators for performance optimization.
 
-<p align="center">
-        <a href="https://www.linkedin.com/in/ricardo-s-rocker/">
-            <img
-                src="https://img.shields.io/badge/-ricardoRocker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-s-rocker/" />
-        </a>
-        <a href="mailto: ricardo.santos.rocker@gmail.com.br">
-            <img
-                src="https://img.shields.io/badge/-ricardoRocker-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardo.santos.rocker@gmail.com" />
-        </a>
-        <a href="https://ricardorocker.com/">
-            <img
-                src="https://img.shields.io/badge/-ricardorocker.com-blue?style=flat-square&link=https://ricardorocker.com" />
-        </a>
-</p>
 
+### Connect with Me
+
+
+- [LinkedIn](https://www.linkedin.com/in/ricardo-s-rocker/)
+- [Portfolio](https://ricardorocker.com/)
+- ricardo.santos.rocker@gmail.com
